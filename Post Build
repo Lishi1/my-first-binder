@@ -1,2 +1,2 @@
-wget -q -0 gapminder.csv
+wget -q -O gapminder.csv
 
