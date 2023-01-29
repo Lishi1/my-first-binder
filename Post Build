@@ -1,3 +1,2 @@
-#!/bin/bash
-set -e
+wget -q -0 gapminder.csv
 
